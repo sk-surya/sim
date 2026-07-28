@@ -59,7 +59,7 @@
     "@azure/communication-email": "1.0.0",
     "@azure/storage-blob": "12.27.0",
     "@better-auth/sso": "1.6.11",
-    "@better-auth/stripe": "1.6.11",
+    "@better-auth/stripe": "1.6.21",
     "@browserbasehq/stagehand": "^3.2.1",
     "@cerebras/cerebras_cloud_sdk": "^1.23.0",
     "@e2b/code-interpreter": "^2.0.0",
